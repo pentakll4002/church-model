@@ -1,7 +1,4 @@
 # 📂 Project Structure
-      bash
-      Sao chép
-      Chỉnh sửa
       Church-Modeling/
           │── data/                # Dataset directory
           │── models/              # Trained models and checkpoints
